@@ -51,6 +51,9 @@ group :development do
 end
 
 gem 'devise'
+
+gem "omniauth-facebook"
+
 gem 'bootstrap-sass'
 gem 'simple_form'
 
